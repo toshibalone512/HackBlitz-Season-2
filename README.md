@@ -1,71 +1,87 @@
-Hackblitz-2025
+# HackBlitz Season 2
 
-📌 Getting Started -
+Welcome to **HackBlitz Season 2**, an intense 8-hour hackathon where innovation meets execution. Get ready to showcase your skills, collaborate, and build something amazing!
 
-To contribute to this project, each team member must:
+## 🚀 How to Participate
 
-1️⃣ Fork this repository to your own GitHub account.
+### 1️⃣ Fork the Repository
+1. Go to the official **HackBlitz Season 2** GitHub repository.
+2. Click the **Fork** button in the top-right corner to create a copy of the repository in your account.
 
-2️⃣ Create a new folder within that forked repository. The naming convention for the folder should be:
+### 2️⃣ Clone the Repository
+After forking the repository, clone it to your local machine:
+```sh
+ git clone https://github.com/YOUR_GITHUB_USERNAME/HackBlitz-Season-2.git
+```
 
-TeamName (TeamLeaderName)
+### 3️⃣ Navigate to the Repository Folder
+```sh
+ cd HackBlitz-Season-2
+```
 
-Replace TeamName with your actual team name and TeamLeaderName with the name of your team leader.
+### 4️⃣ Create a New Branch (Optional but Recommended)
+```sh
+ git checkout -b your-branch-name
+```
 
-3️⃣ Inside your team's folder, create a README.md file. This file should contain the following information:
+### 5️⃣ Work on Your Project
+- Each team will upload their project inside a folder named after their **team name** inside the repository.
+- Ensure all your code, assets, and documentation are inside your respective team folder.
 
-👥 Team Member Names: List everyone participating from your team.
+### 6️⃣ Add & Commit Your Changes
+```sh
+ git add .
+ git commit -m "Added project files for Team XYZ"
+```
 
-📧 Emails: A contact email of the Team Leader.
+### 7️⃣ Push Your Changes to Your Forked Repository
+```sh
+ git push origin your-branch-name
+```
 
-🌐 Domain: The focus area of your team within the project.
+### 8️⃣ Create a Pull Request (PR)
+1. Go to your forked repository on GitHub.
+2. Click on **Compare & Pull Request**.
+3. Ensure your PR is being merged into the **main branch** of the original HackBlitz repository.
+4. Add a description and submit the PR.
+5. Wait for the PR to be reviewed and accepted.
 
-💻 Technology Used: All technologies, frameworks, and tools your team is utilizing.
+---
 
-📖 Project Description: A succinct description of your project/component, its features, and its objectives.
+## ⚖️ Hackathon Rules
 
-📸 Screenshots: Visuals of your project to give everyone a glimpse of your work.
+### 🚨 General Rules
+- Teams must consist of **2-4** members.
+- The hackathon duration is **8 hours**.
+- Any form of **plagiarism** will lead to disqualification.
+- Be respectful and maintain a positive competitive spirit.
+- Submit the project within the given deadline.
 
-🛠 Installation Instructions: Step-by-step guide on how to get your project up and running, including prerequisites and environment setup.
+### 🚫 Restrictions
+- **No pre-trained models** are allowed.
+- **Direct cloning of projects** from external sources is prohibited.
+- **AI-generated code** without proper understanding is discouraged.
 
-1️⃣ HACKBLITZ 2025 HACKATHON RULES
+### 📤 Project Submission Guidelines
+- Each team **must fork** the repository.
+- Clone the forked repository.
+- Upload your code into a **folder named after your team** inside the repository.
+- Create a **Pull Request (PR)** and wait for it to be **reviewed and accepted**.
 
-These are the Hack Blitz standard competition rules. This document serves as a rulebook for the Hack Blitz 2024 hackathon. It explains and expands on the rules detailed in Hack Blitz 2024.
+# 🏆 Judging Criteria
 
-2️⃣ THE RULES OF THE COMPETITION
+1. Your project will be evaluated based on the following criteria:
 
-A team can have a maximum of 4 members.
+2. Innovation & Creativity (25%) - How unique and creative is your project?
 
-Teams should be made up exclusively of accepted members who are not organizers, volunteers, mentors, judges, sponsors, or any other privileged position at the event.
+3. Functionality (25%) - Does the project work as expected? Is it bug-free?
 
-Teams can gain advice and support from organizers, volunteers, sponsors, and others.
+4. Technical Complexity (20%) - How well is the code structured and implemented?
 
-All work on a project must be done at the hackathon.
+5. User Experience & Design (15%) - Is the UI/UX intuitive and visually appealing?
 
-Teams can use libraries and frameworks, but working on a project before the event and open-sourcing it solely for the purpose of using the code during the event is not allowed.
+6. Presentation & Documentation (15%) - Is the project well-documented and explained?
 
-Teams must stop coding once the time is up. However, small debugging fixes are allowed if they do not introduce new features.
 
-Teams can be disqualified at the organizers' discretion for breaking the competition rules, violating the [Code of Conduct], or displaying unsporting behavior.
+Let's make HackBlitz Season 2 an amazing experience! 💻⚡🚀
 
-3️⃣ SUBMISSION
-
-Instructions will be given during the hackathon.
-
-4️⃣ JUDGING CRITERIA
-
-Teams will be judged on the following points. During judging, participants should describe what they did for each criterion in their project. For example:
-
-How well-designed is the interface? For websites, this might include CSS styling or graphic quality.
-
-Judges have the freedom to make decisions based on their gut feeling of which projects are the most impressive and deserving.
-
-❌ Judging does NOT include:
-
-Code quality: It doesn’t matter if your code is messy or not well commented.
-
-Production readiness: If your code isn’t production-ready, you won’t be marked down.
-
-Sales pitch: Code is about building and learning, not about selling.
-
-Solving a problem: You can build something tot
